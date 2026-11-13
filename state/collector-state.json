@@ -1,20 +1,208 @@
 {
   "repos": {
     "Azure/azure-iot-sdk-python": {
-      "days": {},
-      "runs": {}
+      "days": {
+        "2026-08-15": "complete",
+        "2026-08-16": "complete",
+        "2026-08-17": "complete",
+        "2026-08-18": "complete",
+        "2026-08-19": "complete",
+        "2026-08-20": "complete",
+        "2026-08-21": "complete",
+        "2026-08-22": "complete",
+        "2026-08-23": "complete",
+        "2026-08-24": "complete",
+        "2026-08-25": "complete",
+        "2026-08-26": "complete",
+        "2026-08-27": "complete",
+        "2026-08-28": "complete",
+        "2026-08-29": "complete",
+        "2026-08-30": "complete",
+        "2026-08-31": "complete",
+        "2026-09-01": "complete",
+        "2026-09-02": "complete",
+        "2026-09-03": "complete",
+        "2026-09-04": "complete",
+        "2026-09-05": "complete",
+        "2026-09-06": "complete",
+        "2026-09-07": "complete",
+        "2026-09-08": "complete",
+        "2026-09-09": "complete",
+        "2026-09-10": "complete",
+        "2026-09-11": "complete",
+        "2026-09-12": "complete",
+        "2026-09-13": "complete",
+        "2026-09-14": "complete",
+        "2026-09-15": "complete",
+        "2026-09-16": "complete",
+        "2026-09-17": "complete",
+        "2026-09-18": "complete",
+        "2026-09-19": "complete",
+        "2026-09-20": "complete",
+        "2026-09-21": "complete",
+        "2026-09-22": "complete",
+        "2026-09-23": "complete",
+        "2026-09-24": "complete",
+        "2026-09-25": "complete",
+        "2026-09-26": "complete",
+        "2026-09-27": "complete",
+        "2026-09-28": "complete",
+        "2026-09-29": "complete",
+        "2026-09-30": "complete",
+        "2026-10-01": "complete",
+        "2026-10-02": "complete",
+        "2026-10-03": "complete",
+        "2026-10-04": "complete",
+        "2026-10-05": "complete",
+        "2026-10-06": "complete",
+        "2026-10-07": "complete",
+        "2026-10-08": "complete",
+        "2026-10-09": "complete",
+        "2026-10-10": "complete",
+        "2026-10-11": "complete",
+        "2026-10-12": "complete",
+        "2026-10-13": "complete",
+        "2026-10-14": "complete",
+        "2026-10-15": "complete",
+        "2026-10-16": "complete",
+        "2026-10-17": "complete",
+        "2026-10-18": "complete",
+        "2026-10-19": "complete",
+        "2026-10-20": "complete",
+        "2026-10-21": "complete",
+        "2026-10-22": "complete",
+        "2026-10-23": "complete",
+        "2026-10-24": "complete",
+        "2026-10-25": "complete",
+        "2026-10-26": "complete",
+        "2026-10-27": "complete",
+        "2026-10-28": "complete",
+        "2026-10-29": "complete",
+        "2026-10-30": "complete",
+        "2026-10-31": "complete",
+        "2026-11-01": "complete",
+        "2026-11-02": "complete",
+        "2026-11-03": "complete",
+        "2026-11-04": "complete",
+        "2026-11-05": "complete",
+        "2026-11-06": "complete",
+        "2026-11-07": "complete",
+        "2026-11-08": "complete",
+        "2026-11-09": "complete"
+      },
+      "runs": {
+        "42912315802": {
+          "attempt": 1,
+          "day": "2026-11-10",
+          "mirrored": [
+            13806819880,
+            13807517495,
+            13807532300,
+            13807667366,
+            13808650120
+          ]
+        }
+      }
     },
     "NatLabRockies/buildstockbatch": {
-      "days": {},
+      "days": {
+        "2026-08-15": "complete",
+        "2026-08-16": "complete",
+        "2026-08-17": "complete",
+        "2026-08-18": "complete",
+        "2026-08-19": "complete",
+        "2026-08-20": "complete",
+        "2026-08-21": "complete",
+        "2026-08-22": "complete",
+        "2026-08-23": "complete",
+        "2026-08-24": "complete",
+        "2026-08-25": "complete",
+        "2026-08-26": "complete",
+        "2026-08-27": "complete",
+        "2026-08-28": "complete",
+        "2026-08-29": "complete",
+        "2026-08-30": "complete",
+        "2026-08-31": "complete",
+        "2026-09-01": "complete",
+        "2026-09-02": "complete",
+        "2026-09-03": "complete",
+        "2026-09-04": "complete",
+        "2026-09-05": "complete",
+        "2026-09-06": "complete",
+        "2026-09-07": "complete",
+        "2026-09-08": "complete",
+        "2026-09-09": "complete",
+        "2026-09-10": "complete",
+        "2026-09-11": "complete",
+        "2026-09-12": "complete",
+        "2026-09-13": "complete",
+        "2026-09-14": "complete",
+        "2026-09-15": "complete",
+        "2026-09-16": "complete",
+        "2026-09-17": "complete",
+        "2026-09-18": "complete",
+        "2026-09-19": "complete",
+        "2026-09-20": "complete",
+        "2026-09-21": "complete",
+        "2026-09-22": "complete",
+        "2026-09-23": "complete",
+        "2026-09-24": "complete",
+        "2026-09-25": "complete",
+        "2026-09-26": "complete",
+        "2026-09-27": "complete",
+        "2026-09-28": "complete",
+        "2026-09-29": "complete",
+        "2026-09-30": "complete",
+        "2026-10-01": "complete",
+        "2026-10-02": "complete",
+        "2026-10-03": "complete",
+        "2026-10-04": "complete",
+        "2026-10-05": "complete",
+        "2026-10-06": "complete",
+        "2026-10-07": "complete",
+        "2026-10-08": "complete",
+        "2026-10-09": "complete",
+        "2026-10-10": "complete",
+        "2026-10-11": "complete",
+        "2026-10-12": "complete",
+        "2026-10-13": "complete",
+        "2026-10-14": "complete",
+        "2026-10-15": "complete",
+        "2026-10-16": "complete",
+        "2026-10-17": "complete",
+        "2026-10-18": "complete",
+        "2026-10-19": "complete",
+        "2026-10-20": "complete",
+        "2026-10-21": "complete",
+        "2026-10-22": "complete",
+        "2026-10-23": "complete",
+        "2026-10-24": "complete",
+        "2026-10-25": "complete",
+        "2026-10-26": "complete",
+        "2026-10-27": "complete",
+        "2026-10-28": "complete",
+        "2026-10-29": "complete",
+        "2026-10-30": "complete",
+        "2026-10-31": "complete",
+        "2026-11-01": "complete",
+        "2026-11-02": "complete",
+        "2026-11-03": "complete",
+        "2026-11-04": "complete",
+        "2026-11-05": "complete",
+        "2026-11-06": "complete",
+        "2026-11-07": "complete",
+        "2026-11-08": "complete",
+        "2026-11-09": "complete"
+      },
       "runs": {
-        "42398701061": {
+        "42920879113": {
           "attempt": 1,
-          "day": "2026-11-07",
+          "day": "2026-11-10",
           "mirrored": []
         },
-        "42402143359": {
+        "42927633025": {
           "attempt": 1,
-          "day": "2026-11-07",
+          "day": "2026-11-10",
           "mirrored": []
         }
       }
@@ -60940,7 +61128,22 @@
       }
     },
     "Significant-Gravitas/AutoGPT": {
-      "days": {},
+      "days": {
+        "2026-08-15": "complete",
+        "2026-08-16": "complete",
+        "2026-08-17": "complete",
+        "2026-08-18": "complete",
+        "2026-08-19": "complete",
+        "2026-08-20": "complete",
+        "2026-08-21": "complete",
+        "2026-08-22": "complete",
+        "2026-08-23": "complete",
+        "2026-08-24": "complete",
+        "2026-08-25": "complete",
+        "2026-08-26": "complete",
+        "2026-08-27": "complete",
+        "2026-08-28": "complete"
+      },
       "runs": {
         "41743701019": {
           "attempt": 1,
@@ -63795,7 +63998,23 @@
       }
     },
     "TanStack/query": {
-      "days": {},
+      "days": {
+        "2026-08-15": "complete",
+        "2026-08-16": "complete",
+        "2026-08-17": "complete",
+        "2026-08-18": "complete",
+        "2026-08-19": "complete",
+        "2026-08-20": "complete",
+        "2026-08-21": "complete",
+        "2026-08-22": "complete",
+        "2026-08-23": "complete",
+        "2026-08-24": "complete",
+        "2026-08-25": "complete",
+        "2026-08-26": "complete",
+        "2026-08-27": "complete",
+        "2026-08-28": "complete",
+        "2026-08-29": "complete"
+      },
       "runs": {
         "41751080942": {
           "attempt": 1,
@@ -64575,8 +64794,147 @@
       }
     },
     "babel/babel": {
-      "days": {},
+      "days": {
+        "2026-08-15": "complete",
+        "2026-08-16": "complete",
+        "2026-08-17": "complete",
+        "2026-08-18": "complete",
+        "2026-08-19": "complete",
+        "2026-08-20": "complete",
+        "2026-08-21": "complete",
+        "2026-08-22": "complete",
+        "2026-08-23": "complete",
+        "2026-08-24": "complete",
+        "2026-08-25": "complete",
+        "2026-08-26": "complete",
+        "2026-08-27": "complete",
+        "2026-08-28": "complete",
+        "2026-08-29": "complete",
+        "2026-08-30": "complete",
+        "2026-08-31": "complete",
+        "2026-09-01": "complete",
+        "2026-09-02": "complete",
+        "2026-09-03": "complete",
+        "2026-09-04": "complete",
+        "2026-09-05": "complete",
+        "2026-09-06": "complete",
+        "2026-09-07": "complete",
+        "2026-09-08": "complete",
+        "2026-09-09": "complete",
+        "2026-09-10": "complete",
+        "2026-09-11": "complete",
+        "2026-09-12": "complete",
+        "2026-09-13": "complete",
+        "2026-09-14": "complete",
+        "2026-09-15": "complete",
+        "2026-09-16": "complete",
+        "2026-09-17": "complete",
+        "2026-09-18": "complete",
+        "2026-09-19": "complete",
+        "2026-09-20": "complete",
+        "2026-09-21": "complete",
+        "2026-09-22": "complete",
+        "2026-09-23": "complete",
+        "2026-09-24": "complete",
+        "2026-09-25": "complete",
+        "2026-09-26": "complete",
+        "2026-09-27": "complete",
+        "2026-09-28": "complete",
+        "2026-09-29": "complete",
+        "2026-09-30": "complete",
+        "2026-10-01": "complete",
+        "2026-10-02": "complete",
+        "2026-10-03": "complete",
+        "2026-10-04": "complete",
+        "2026-10-05": "complete",
+        "2026-10-06": "complete",
+        "2026-10-07": "complete",
+        "2026-10-08": "complete",
+        "2026-10-09": "complete",
+        "2026-10-10": "complete",
+        "2026-10-11": "complete",
+        "2026-10-12": "complete",
+        "2026-10-13": "complete",
+        "2026-10-14": "complete",
+        "2026-10-15": "complete",
+        "2026-10-16": "complete",
+        "2026-10-17": "complete",
+        "2026-10-18": "complete",
+        "2026-10-19": "complete",
+        "2026-10-20": "complete",
+        "2026-10-21": "complete"
+      },
       "runs": {
+        "39700538321": {
+          "attempt": 1,
+          "day": "2026-10-22",
+          "mirrored": []
+        },
+        "39700542487": {
+          "attempt": 1,
+          "day": "2026-10-22",
+          "mirrored": []
+        },
+        "39755929061": {
+          "attempt": 1,
+          "day": "2026-10-22",
+          "mirrored": []
+        },
+        "39759409285": {
+          "attempt": 1,
+          "day": "2026-10-22",
+          "mirrored": []
+        },
+        "39760019595": {
+          "attempt": 1,
+          "day": "2026-10-22",
+          "mirrored": []
+        },
+        "39762297575": {
+          "attempt": 1,
+          "day": "2026-10-22",
+          "mirrored": []
+        },
+        "39762345775": {
+          "attempt": 1,
+          "day": "2026-10-22",
+          "mirrored": []
+        },
+        "39762380039": {
+          "attempt": 1,
+          "day": "2026-10-22",
+          "mirrored": []
+        },
+        "39768266210": {
+          "attempt": 1,
+          "day": "2026-10-22",
+          "mirrored": []
+        },
+        "39774678279": {
+          "attempt": 1,
+          "day": "2026-10-22",
+          "mirrored": []
+        },
+        "39785134754": {
+          "attempt": 1,
+          "day": "2026-10-22",
+          "mirrored": []
+        },
+        "39787990544": {
+          "attempt": 1,
+          "day": "2026-10-22",
+          "mirrored": []
+        },
+        "39788009055": {
+          "attempt": 1,
+          "day": "2026-10-22",
+          "mirrored": []
+        },
+        "39788024649": {
+          "attempt": 1,
+          "day": "2026-10-22",
+          "mirrored": []
+        },
         "41746064579": {
           "attempt": 1,
           "day": "2026-11-04",
@@ -65155,8 +65513,43 @@
       }
     },
     "baserow/baserow": {
-      "days": {},
+      "days": {
+        "2026-08-15": "complete",
+        "2026-08-16": "complete",
+        "2026-08-17": "complete",
+        "2026-08-18": "complete",
+        "2026-08-19": "complete",
+        "2026-08-20": "complete",
+        "2026-08-21": "complete",
+        "2026-08-22": "complete",
+        "2026-08-23": "complete",
+        "2026-08-24": "complete",
+        "2026-08-25": "complete",
+        "2026-08-26": "complete",
+        "2026-08-27": "complete",
+        "2026-08-28": "complete",
+        "2026-08-29": "complete",
+        "2026-08-30": "complete",
+        "2026-08-31": "complete",
+        "2026-09-01": "complete",
+        "2026-09-02": "complete"
+      },
       "runs": {
+        "33716849623": {
+          "attempt": 1,
+          "day": "2026-09-03",
+          "mirrored": []
+        },
+        "33729484840": {
+          "attempt": 1,
+          "day": "2026-09-03",
+          "mirrored": []
+        },
+        "33730865048": {
+          "attempt": 1,
+          "day": "2026-09-03",
+          "mirrored": []
+        },
         "41783907322": {
           "attempt": 1,
           "day": "2026-11-04",
@@ -66545,7 +66938,23 @@
       }
     },
     "colinhacks/zod": {
-      "days": {},
+      "days": {
+        "2026-08-15": "complete",
+        "2026-08-16": "complete",
+        "2026-08-17": "complete",
+        "2026-08-18": "complete",
+        "2026-08-19": "complete",
+        "2026-08-20": "complete",
+        "2026-08-21": "complete",
+        "2026-08-22": "complete",
+        "2026-08-23": "complete",
+        "2026-08-24": "complete",
+        "2026-08-25": "complete",
+        "2026-08-26": "complete",
+        "2026-08-27": "complete",
+        "2026-08-28": "complete",
+        "2026-08-29": "complete"
+      },
       "runs": {
         "41868695713": {
           "attempt": 1,
@@ -66650,8 +67059,75 @@
       }
     },
     "electron/forge": {
-      "days": {},
+      "days": {
+        "2026-08-15": "complete",
+        "2026-08-16": "complete",
+        "2026-08-17": "complete",
+        "2026-08-18": "complete",
+        "2026-08-19": "complete",
+        "2026-08-20": "complete",
+        "2026-08-21": "complete",
+        "2026-08-22": "complete",
+        "2026-08-23": "complete",
+        "2026-08-24": "complete",
+        "2026-08-25": "complete",
+        "2026-08-26": "complete",
+        "2026-08-27": "complete",
+        "2026-08-28": "complete",
+        "2026-08-29": "complete",
+        "2026-08-30": "complete",
+        "2026-08-31": "complete",
+        "2026-09-01": "complete",
+        "2026-09-02": "complete",
+        "2026-09-03": "complete",
+        "2026-09-04": "complete",
+        "2026-09-05": "complete",
+        "2026-09-06": "complete",
+        "2026-09-07": "complete",
+        "2026-09-08": "complete",
+        "2026-09-09": "complete",
+        "2026-09-10": "complete",
+        "2026-09-11": "complete",
+        "2026-09-12": "complete",
+        "2026-09-13": "complete",
+        "2026-09-14": "complete",
+        "2026-09-15": "complete",
+        "2026-09-16": "complete",
+        "2026-09-17": "complete",
+        "2026-09-18": "complete",
+        "2026-09-19": "complete",
+        "2026-09-20": "complete",
+        "2026-09-21": "complete",
+        "2026-09-22": "complete",
+        "2026-09-23": "complete",
+        "2026-09-24": "complete",
+        "2026-09-25": "complete",
+        "2026-09-26": "complete",
+        "2026-09-27": "complete",
+        "2026-09-28": "complete",
+        "2026-09-29": "complete",
+        "2026-09-30": "complete",
+        "2026-10-01": "complete",
+        "2026-10-02": "complete",
+        "2026-10-03": "complete",
+        "2026-10-04": "complete"
+      },
       "runs": {
+        "37261080088": {
+          "attempt": 1,
+          "day": "2026-10-05",
+          "mirrored": []
+        },
+        "37261362451": {
+          "attempt": 1,
+          "day": "2026-10-05",
+          "mirrored": []
+        },
+        "37262003688": {
+          "attempt": 2,
+          "day": "2026-10-05",
+          "mirrored": []
+        },
         "41743958216": {
           "attempt": 1,
           "day": "2026-11-04",
@@ -66735,27 +67211,115 @@
       }
     },
     "excalidraw/excalidraw": {
-      "days": {},
-      "runs": {
-        "41901352613": {
-          "attempt": 1,
-          "day": "2026-11-04",
-          "mirrored": []
-        },
-        "42063835928": {
-          "attempt": 1,
-          "day": "2026-11-05",
-          "mirrored": []
-        },
-        "42071971648": {
-          "attempt": 1,
-          "day": "2026-11-05",
-          "mirrored": []
-        }
-      }
+      "days": {
+        "2026-08-15": "complete",
+        "2026-08-16": "complete",
+        "2026-08-17": "complete",
+        "2026-08-18": "complete",
+        "2026-08-19": "complete",
+        "2026-08-20": "complete",
+        "2026-08-21": "complete",
+        "2026-08-22": "complete",
+        "2026-08-23": "complete",
+        "2026-08-24": "complete",
+        "2026-08-25": "complete",
+        "2026-08-26": "complete",
+        "2026-08-27": "complete",
+        "2026-08-28": "complete",
+        "2026-08-29": "complete",
+        "2026-08-30": "complete",
+        "2026-08-31": "complete",
+        "2026-09-01": "complete",
+        "2026-09-02": "complete",
+        "2026-09-03": "complete",
+        "2026-09-04": "complete",
+        "2026-09-05": "complete",
+        "2026-09-06": "complete",
+        "2026-09-07": "complete",
+        "2026-09-08": "complete",
+        "2026-09-09": "complete",
+        "2026-09-10": "complete",
+        "2026-09-11": "complete",
+        "2026-09-12": "complete",
+        "2026-09-13": "complete",
+        "2026-09-14": "complete",
+        "2026-09-15": "complete",
+        "2026-09-16": "complete",
+        "2026-09-17": "complete",
+        "2026-09-18": "complete",
+        "2026-09-19": "complete",
+        "2026-09-20": "complete",
+        "2026-09-21": "complete",
+        "2026-09-22": "complete",
+        "2026-09-23": "complete",
+        "2026-09-24": "complete",
+        "2026-09-25": "complete",
+        "2026-09-26": "complete",
+        "2026-09-27": "complete",
+        "2026-09-28": "complete",
+        "2026-09-29": "complete",
+        "2026-09-30": "complete",
+        "2026-10-01": "complete",
+        "2026-10-02": "complete",
+        "2026-10-03": "complete",
+        "2026-10-04": "complete",
+        "2026-10-05": "complete",
+        "2026-10-06": "complete",
+        "2026-10-07": "complete",
+        "2026-10-08": "complete",
+        "2026-10-09": "complete",
+        "2026-10-10": "complete",
+        "2026-10-11": "complete",
+        "2026-10-12": "complete",
+        "2026-10-13": "complete",
+        "2026-10-14": "complete",
+        "2026-10-15": "complete",
+        "2026-10-16": "complete",
+        "2026-10-17": "complete",
+        "2026-10-18": "complete",
+        "2026-10-19": "complete",
+        "2026-10-20": "complete",
+        "2026-10-21": "complete",
+        "2026-10-22": "complete",
+        "2026-10-23": "complete",
+        "2026-10-24": "complete",
+        "2026-10-25": "complete",
+        "2026-10-26": "complete",
+        "2026-10-27": "complete",
+        "2026-10-28": "complete",
+        "2026-10-29": "complete",
+        "2026-10-30": "complete",
+        "2026-10-31": "complete",
+        "2026-11-01": "complete",
+        "2026-11-02": "complete",
+        "2026-11-03": "complete",
+        "2026-11-04": "complete",
+        "2026-11-05": "complete",
+        "2026-11-06": "complete",
+        "2026-11-07": "complete",
+        "2026-11-08": "complete",
+        "2026-11-09": "complete"
+      },
+      "runs": {}
     },
     "facebook/lexical": {
-      "days": {},
+      "days": {
+        "2026-08-15": "complete",
+        "2026-08-16": "complete",
+        "2026-08-17": "complete",
+        "2026-08-18": "complete",
+        "2026-08-19": "complete",
+        "2026-08-20": "complete",
+        "2026-08-21": "complete",
+        "2026-08-22": "complete",
+        "2026-08-23": "complete",
+        "2026-08-24": "complete",
+        "2026-08-25": "complete",
+        "2026-08-26": "complete",
+        "2026-08-27": "complete",
+        "2026-08-28": "complete",
+        "2026-08-29": "complete"
+      },
       "runs": {
         "41743466688": {
           "attempt": 1,
@@ -69405,8 +69969,104 @@
       }
     },
     "honojs/hono": {
-      "days": {},
+      "days": {
+        "2026-08-15": "complete",
+        "2026-08-16": "complete",
+        "2026-08-17": "complete",
+        "2026-08-18": "complete",
+        "2026-08-19": "complete",
+        "2026-08-20": "complete",
+        "2026-08-21": "complete",
+        "2026-08-22": "complete",
+        "2026-08-23": "complete",
+        "2026-08-24": "complete",
+        "2026-08-25": "complete",
+        "2026-08-26": "complete",
+        "2026-08-27": "complete",
+        "2026-08-28": "complete",
+        "2026-08-29": "complete",
+        "2026-08-30": "complete",
+        "2026-08-31": "complete",
+        "2026-09-01": "complete",
+        "2026-09-02": "complete",
+        "2026-09-03": "complete",
+        "2026-09-04": "complete",
+        "2026-09-05": "complete",
+        "2026-09-06": "complete",
+        "2026-09-07": "complete",
+        "2026-09-08": "complete",
+        "2026-09-09": "complete",
+        "2026-09-10": "complete",
+        "2026-09-11": "complete",
+        "2026-09-12": "complete",
+        "2026-09-13": "complete",
+        "2026-09-14": "complete",
+        "2026-09-15": "complete",
+        "2026-09-16": "complete",
+        "2026-09-17": "complete",
+        "2026-09-18": "complete",
+        "2026-09-19": "complete",
+        "2026-09-20": "complete",
+        "2026-09-21": "complete",
+        "2026-09-22": "complete",
+        "2026-09-23": "complete"
+      },
       "runs": {
+        "35942903454": {
+          "attempt": 1,
+          "day": "2026-09-24",
+          "mirrored": []
+        },
+        "35943086587": {
+          "attempt": 1,
+          "day": "2026-09-24",
+          "mirrored": []
+        },
+        "35943334397": {
+          "attempt": 1,
+          "day": "2026-09-24",
+          "mirrored": []
+        },
+        "35943600258": {
+          "attempt": 1,
+          "day": "2026-09-24",
+          "mirrored": []
+        },
+        "35943757527": {
+          "attempt": 1,
+          "day": "2026-09-24",
+          "mirrored": []
+        },
+        "35944194655": {
+          "attempt": 1,
+          "day": "2026-09-24",
+          "mirrored": []
+        },
+        "35944354503": {
+          "attempt": 1,
+          "day": "2026-09-24",
+          "mirrored": []
+        },
+        "35944768763": {
+          "attempt": 1,
+          "day": "2026-09-24",
+          "mirrored": []
+        },
+        "35944966892": {
+          "attempt": 1,
+          "day": "2026-09-24",
+          "mirrored": []
+        },
+        "35947658099": {
+          "attempt": 2,
+          "day": "2026-09-24",
+          "mirrored": []
+        },
+        "35968923613": {
+          "attempt": 2,
+          "day": "2026-09-24",
+          "mirrored": []
+        },
         "41784840353": {
           "attempt": 1,
           "day": "2026-11-04",
@@ -69595,46 +70255,206 @@
       }
     },
     "jborean93/ansibug": {
-      "days": {},
+      "days": {
+        "2026-08-15": "complete",
+        "2026-08-16": "complete",
+        "2026-08-17": "complete",
+        "2026-08-18": "complete",
+        "2026-08-19": "complete",
+        "2026-08-20": "complete",
+        "2026-08-21": "complete",
+        "2026-08-22": "complete",
+        "2026-08-23": "complete",
+        "2026-08-24": "complete",
+        "2026-08-25": "complete",
+        "2026-08-26": "complete",
+        "2026-08-27": "complete",
+        "2026-08-28": "complete",
+        "2026-08-29": "complete",
+        "2026-08-30": "complete",
+        "2026-08-31": "complete",
+        "2026-09-01": "complete",
+        "2026-09-02": "complete",
+        "2026-09-03": "complete",
+        "2026-09-04": "complete",
+        "2026-09-05": "complete",
+        "2026-09-06": "complete",
+        "2026-09-07": "complete",
+        "2026-09-08": "complete",
+        "2026-09-09": "complete",
+        "2026-09-10": "complete",
+        "2026-09-11": "complete",
+        "2026-09-12": "complete",
+        "2026-09-13": "complete",
+        "2026-09-14": "complete",
+        "2026-09-15": "complete",
+        "2026-09-16": "complete",
+        "2026-09-17": "complete",
+        "2026-09-18": "complete",
+        "2026-09-19": "complete",
+        "2026-09-20": "complete",
+        "2026-09-21": "complete",
+        "2026-09-22": "complete",
+        "2026-09-23": "complete",
+        "2026-09-24": "complete",
+        "2026-09-25": "complete",
+        "2026-09-26": "complete",
+        "2026-09-27": "complete",
+        "2026-09-28": "complete",
+        "2026-09-29": "complete",
+        "2026-09-30": "complete",
+        "2026-10-01": "complete",
+        "2026-10-02": "complete",
+        "2026-10-03": "complete",
+        "2026-10-04": "complete",
+        "2026-10-05": "complete",
+        "2026-10-06": "complete",
+        "2026-10-07": "complete",
+        "2026-10-08": "complete",
+        "2026-10-09": "complete",
+        "2026-10-10": "complete",
+        "2026-10-11": "complete",
+        "2026-10-12": "complete",
+        "2026-10-13": "complete",
+        "2026-10-14": "complete",
+        "2026-10-15": "complete",
+        "2026-10-16": "complete",
+        "2026-10-17": "complete",
+        "2026-10-18": "complete",
+        "2026-10-19": "complete",
+        "2026-10-20": "complete",
+        "2026-10-21": "complete",
+        "2026-10-22": "complete",
+        "2026-10-23": "complete",
+        "2026-10-24": "complete",
+        "2026-10-25": "complete",
+        "2026-10-26": "complete",
+        "2026-10-27": "complete",
+        "2026-10-28": "complete",
+        "2026-10-29": "complete",
+        "2026-10-30": "complete",
+        "2026-10-31": "complete",
+        "2026-11-01": "complete",
+        "2026-11-02": "complete",
+        "2026-11-03": "complete",
+        "2026-11-04": "complete",
+        "2026-11-05": "complete",
+        "2026-11-06": "complete",
+        "2026-11-07": "complete",
+        "2026-11-08": "complete",
+        "2026-11-09": "complete"
+      },
       "runs": {}
     },
     "mariadb-corporation/mariadb-connector-nodejs": {
-      "days": {},
-      "runs": {
-        "41850701294": {
-          "attempt": 1,
-          "day": "2026-11-04",
-          "mirrored": []
-        },
-        "41850805879": {
-          "attempt": 1,
-          "day": "2026-11-04",
-          "mirrored": []
-        },
-        "41850874853": {
-          "attempt": 1,
-          "day": "2026-11-04",
-          "mirrored": []
-        },
-        "41850935576": {
-          "attempt": 1,
-          "day": "2026-11-04",
-          "mirrored": []
-        },
-        "41850996591": {
-          "attempt": 1,
-          "day": "2026-11-04",
-          "mirrored": []
-        },
-        "42437135272": {
-          "attempt": 1,
-          "day": "2026-11-08",
-          "mirrored": []
-        }
-      }
+      "days": {
+        "2026-08-15": "complete",
+        "2026-08-16": "complete",
+        "2026-08-17": "complete",
+        "2026-08-18": "complete",
+        "2026-08-19": "complete",
+        "2026-08-20": "complete",
+        "2026-08-21": "complete",
+        "2026-08-22": "complete",
+        "2026-08-23": "complete",
+        "2026-08-24": "complete",
+        "2026-08-25": "complete",
+        "2026-08-26": "complete",
+        "2026-08-27": "complete",
+        "2026-08-28": "complete",
+        "2026-08-29": "complete",
+        "2026-08-30": "complete",
+        "2026-08-31": "complete",
+        "2026-09-01": "complete",
+        "2026-09-02": "complete",
+        "2026-09-03": "complete",
+        "2026-09-04": "complete",
+        "2026-09-05": "complete",
+        "2026-09-06": "complete",
+        "2026-09-07": "complete",
+        "2026-09-08": "complete",
+        "2026-09-09": "complete",
+        "2026-09-10": "complete",
+        "2026-09-11": "complete",
+        "2026-09-12": "complete",
+        "2026-09-13": "complete",
+        "2026-09-14": "complete",
+        "2026-09-15": "complete",
+        "2026-09-16": "complete",
+        "2026-09-17": "complete",
+        "2026-09-18": "complete",
+        "2026-09-19": "complete",
+        "2026-09-20": "complete",
+        "2026-09-21": "complete",
+        "2026-09-22": "complete",
+        "2026-09-23": "complete",
+        "2026-09-24": "complete",
+        "2026-09-25": "complete",
+        "2026-09-26": "complete",
+        "2026-09-27": "complete",
+        "2026-09-28": "complete",
+        "2026-09-29": "complete",
+        "2026-09-30": "complete",
+        "2026-10-01": "complete",
+        "2026-10-02": "complete",
+        "2026-10-03": "complete",
+        "2026-10-04": "complete",
+        "2026-10-05": "complete",
+        "2026-10-06": "complete",
+        "2026-10-07": "complete",
+        "2026-10-08": "complete",
+        "2026-10-09": "complete",
+        "2026-10-10": "complete",
+        "2026-10-11": "complete",
+        "2026-10-12": "complete",
+        "2026-10-13": "complete",
+        "2026-10-14": "complete",
+        "2026-10-15": "complete",
+        "2026-10-16": "complete",
+        "2026-10-17": "complete",
+        "2026-10-18": "complete",
+        "2026-10-19": "complete",
+        "2026-10-20": "complete",
+        "2026-10-21": "complete",
+        "2026-10-22": "complete",
+        "2026-10-23": "complete",
+        "2026-10-24": "complete",
+        "2026-10-25": "complete",
+        "2026-10-26": "complete",
+        "2026-10-27": "complete",
+        "2026-10-28": "complete",
+        "2026-10-29": "complete",
+        "2026-10-30": "complete",
+        "2026-10-31": "complete",
+        "2026-11-01": "complete",
+        "2026-11-02": "complete",
+        "2026-11-03": "complete",
+        "2026-11-04": "complete",
+        "2026-11-05": "complete",
+        "2026-11-06": "complete",
+        "2026-11-07": "complete",
+        "2026-11-08": "complete",
+        "2026-11-09": "complete"
+      },
+      "runs": {}
     },
     "meshery/meshery": {
-      "days": {},
+      "days": {
+        "2026-08-15": "complete",
+        "2026-08-16": "complete",
+        "2026-08-17": "complete",
+        "2026-08-18": "complete",
+        "2026-08-19": "complete",
+        "2026-08-20": "complete",
+        "2026-08-21": "complete",
+        "2026-08-22": "complete",
+        "2026-08-23": "complete",
+        "2026-08-24": "complete",
+        "2026-08-25": "complete",
+        "2026-08-26": "complete",
+        "2026-08-27": "complete",
+        "2026-08-28": "complete"
+      },
       "runs": {
         "41744405855": {
           "attempt": 1,
@@ -72479,38 +73299,150 @@
       }
     },
     "mozilla-conduit/review": {
-      "days": {},
-      "runs": {
-        "41751705585": {
-          "attempt": 1,
-          "day": "2026-11-04",
-          "mirrored": []
-        },
-        "41885296057": {
-          "attempt": 1,
-          "day": "2026-11-04",
-          "mirrored": []
-        },
-        "42139651342": {
-          "attempt": 1,
-          "day": "2026-11-06",
-          "mirrored": []
-        },
-        "42194578762": {
-          "attempt": 1,
-          "day": "2026-11-06",
-          "mirrored": []
-        },
-        "42273373022": {
-          "attempt": 1,
-          "day": "2026-11-06",
-          "mirrored": []
-        }
-      }
+      "days": {
+        "2026-08-15": "complete",
+        "2026-08-16": "complete",
+        "2026-08-17": "complete",
+        "2026-08-18": "complete",
+        "2026-08-19": "complete",
+        "2026-08-20": "complete",
+        "2026-08-21": "complete",
+        "2026-08-22": "complete",
+        "2026-08-23": "complete",
+        "2026-08-24": "complete",
+        "2026-08-25": "complete",
+        "2026-08-26": "complete",
+        "2026-08-27": "complete",
+        "2026-08-28": "complete",
+        "2026-08-29": "complete",
+        "2026-08-30": "complete",
+        "2026-08-31": "complete",
+        "2026-09-01": "complete",
+        "2026-09-02": "complete",
+        "2026-09-03": "complete",
+        "2026-09-04": "complete",
+        "2026-09-05": "complete",
+        "2026-09-06": "complete",
+        "2026-09-07": "complete",
+        "2026-09-08": "complete",
+        "2026-09-09": "complete",
+        "2026-09-10": "complete",
+        "2026-09-11": "complete",
+        "2026-09-12": "complete",
+        "2026-09-13": "complete",
+        "2026-09-14": "complete",
+        "2026-09-15": "complete",
+        "2026-09-16": "complete",
+        "2026-09-17": "complete",
+        "2026-09-18": "complete",
+        "2026-09-19": "complete",
+        "2026-09-20": "complete",
+        "2026-09-21": "complete",
+        "2026-09-22": "complete",
+        "2026-09-23": "complete",
+        "2026-09-24": "complete",
+        "2026-09-25": "complete",
+        "2026-09-26": "complete",
+        "2026-09-27": "complete",
+        "2026-09-28": "complete",
+        "2026-09-29": "complete",
+        "2026-09-30": "complete",
+        "2026-10-01": "complete",
+        "2026-10-02": "complete",
+        "2026-10-03": "complete",
+        "2026-10-04": "complete",
+        "2026-10-05": "complete",
+        "2026-10-06": "complete",
+        "2026-10-07": "complete",
+        "2026-10-08": "complete",
+        "2026-10-09": "complete",
+        "2026-10-10": "complete",
+        "2026-10-11": "complete",
+        "2026-10-12": "complete",
+        "2026-10-13": "complete",
+        "2026-10-14": "complete",
+        "2026-10-15": "complete",
+        "2026-10-16": "complete",
+        "2026-10-17": "complete",
+        "2026-10-18": "complete",
+        "2026-10-19": "complete",
+        "2026-10-20": "complete",
+        "2026-10-21": "complete",
+        "2026-10-22": "complete",
+        "2026-10-23": "complete",
+        "2026-10-24": "complete",
+        "2026-10-25": "complete",
+        "2026-10-26": "complete",
+        "2026-10-27": "complete",
+        "2026-10-28": "complete",
+        "2026-10-29": "complete",
+        "2026-10-30": "complete",
+        "2026-10-31": "complete",
+        "2026-11-01": "complete",
+        "2026-11-02": "complete",
+        "2026-11-03": "complete",
+        "2026-11-04": "complete",
+        "2026-11-05": "complete",
+        "2026-11-06": "complete",
+        "2026-11-07": "complete",
+        "2026-11-08": "complete",
+        "2026-11-09": "complete"
+      },
+      "runs": {}
     },
     "prettier/prettier": {
-      "days": {},
+      "days": {
+        "2026-08-15": "complete",
+        "2026-08-16": "complete",
+        "2026-08-17": "complete",
+        "2026-08-18": "complete",
+        "2026-08-19": "complete",
+        "2026-08-20": "complete",
+        "2026-08-21": "complete",
+        "2026-08-22": "complete",
+        "2026-08-23": "complete",
+        "2026-08-24": "complete",
+        "2026-08-25": "complete",
+        "2026-08-26": "complete",
+        "2026-08-27": "complete",
+        "2026-08-28": "complete"
+      },
       "runs": {
+        "33230180368": {
+          "attempt": 1,
+          "day": "2026-08-29",
+          "mirrored": []
+        },
+        "33230180477": {
+          "attempt": 1,
+          "day": "2026-08-29",
+          "mirrored": []
+        },
+        "33230186291": {
+          "attempt": 1,
+          "day": "2026-08-29",
+          "mirrored": []
+        },
+        "33230186488": {
+          "attempt": 1,
+          "day": "2026-08-29",
+          "mirrored": []
+        },
+        "33230219356": {
+          "attempt": 1,
+          "day": "2026-08-29",
+          "mirrored": []
+        },
+        "33230219440": {
+          "attempt": 1,
+          "day": "2026-08-29",
+          "mirrored": []
+        },
+        "33230228576": {
+          "attempt": 1,
+          "day": "2026-08-29",
+          "mirrored": []
+        },
         "41743774939": {
           "attempt": 1,
           "day": "2026-11-04",
@@ -73934,7 +74866,23 @@
       }
     },
     "sveltejs/svelte": {
-      "days": {},
+      "days": {
+        "2026-08-15": "complete",
+        "2026-08-16": "complete",
+        "2026-08-17": "complete",
+        "2026-08-18": "complete",
+        "2026-08-19": "complete",
+        "2026-08-20": "complete",
+        "2026-08-21": "complete",
+        "2026-08-22": "complete",
+        "2026-08-23": "complete",
+        "2026-08-24": "complete",
+        "2026-08-25": "complete",
+        "2026-08-26": "complete",
+        "2026-08-27": "complete",
+        "2026-08-28": "complete",
+        "2026-08-29": "complete"
+      },
       "runs": {
         "41743475084": {
           "attempt": 1,
@@ -74624,8 +75572,89 @@
       }
     },
     "toss/es-toolkit": {
-      "days": {},
+      "days": {
+        "2026-08-15": "complete",
+        "2026-08-16": "complete",
+        "2026-08-17": "complete",
+        "2026-08-18": "complete",
+        "2026-08-20": "complete",
+        "2026-08-21": "complete",
+        "2026-08-22": "complete",
+        "2026-08-23": "complete",
+        "2026-08-24": "complete",
+        "2026-08-25": "complete",
+        "2026-08-26": "complete",
+        "2026-08-27": "complete",
+        "2026-08-28": "complete",
+        "2026-08-29": "complete",
+        "2026-08-30": "complete",
+        "2026-08-31": "complete",
+        "2026-09-01": "complete",
+        "2026-09-02": "complete",
+        "2026-09-03": "complete",
+        "2026-09-04": "complete",
+        "2026-09-05": "complete",
+        "2026-09-06": "complete",
+        "2026-09-07": "complete",
+        "2026-09-08": "complete",
+        "2026-09-09": "complete",
+        "2026-09-10": "complete",
+        "2026-09-11": "complete",
+        "2026-09-12": "complete",
+        "2026-09-13": "complete",
+        "2026-09-14": "complete",
+        "2026-09-15": "complete",
+        "2026-09-16": "complete",
+        "2026-09-17": "complete",
+        "2026-09-18": "complete",
+        "2026-09-19": "complete",
+        "2026-09-20": "complete",
+        "2026-09-21": "complete",
+        "2026-09-22": "complete",
+        "2026-09-23": "complete",
+        "2026-09-24": "complete",
+        "2026-09-25": "complete",
+        "2026-09-26": "complete",
+        "2026-09-27": "complete",
+        "2026-09-28": "complete",
+        "2026-09-29": "complete",
+        "2026-09-30": "complete",
+        "2026-10-01": "complete",
+        "2026-10-02": "complete",
+        "2026-10-03": "complete",
+        "2026-10-04": "complete",
+        "2026-10-05": "complete",
+        "2026-10-06": "complete",
+        "2026-10-07": "complete",
+        "2026-10-08": "complete",
+        "2026-10-09": "complete"
+      },
       "runs": {
+        "38028056904": {
+          "attempt": 1,
+          "day": "2026-10-10",
+          "mirrored": []
+        },
+        "38029423472": {
+          "attempt": 1,
+          "day": "2026-10-10",
+          "mirrored": []
+        },
+        "38030649016": {
+          "attempt": 1,
+          "day": "2026-10-10",
+          "mirrored": []
+        },
+        "38031709510": {
+          "attempt": 1,
+          "day": "2026-10-10",
+          "mirrored": []
+        },
+        "38033188863": {
+          "attempt": 1,
+          "day": "2026-10-10",
+          "mirrored": []
+        },
         "41945663353": {
           "attempt": 1,
           "day": "2026-11-05",
@@ -74969,8 +75998,607 @@
       }
     },
     "trpc/trpc": {
-      "days": {},
+      "days": {
+        "2026-08-15": "complete",
+        "2026-08-16": "complete",
+        "2026-08-17": "complete",
+        "2026-08-18": "complete",
+        "2026-08-19": "complete",
+        "2026-08-20": "complete",
+        "2026-08-21": "complete",
+        "2026-08-22": "complete",
+        "2026-08-23": "complete",
+        "2026-08-24": "complete",
+        "2026-08-25": "complete",
+        "2026-08-26": "complete",
+        "2026-08-27": "complete",
+        "2026-08-28": "complete",
+        "2026-08-29": "complete",
+        "2026-08-30": "complete",
+        "2026-08-31": "complete",
+        "2026-09-01": "complete",
+        "2026-09-02": "complete",
+        "2026-09-03": "complete",
+        "2026-09-04": "complete",
+        "2026-09-05": "complete",
+        "2026-09-06": "complete",
+        "2026-09-07": "complete",
+        "2026-09-08": "complete",
+        "2026-09-09": "complete",
+        "2026-09-10": "complete",
+        "2026-09-11": "complete"
+      },
       "runs": {
+        "34688035768": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34688308742": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34688402416": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34688587814": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34688943868": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34689092388": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34689272300": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34689519476": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34689610175": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34689725959": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34689832228": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34689833667": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34689836085": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34689836760": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34689841232": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34690003213": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34690128589": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34690164928": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34690216176": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34690379507": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34690477222": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34690562641": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34690753087": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34690939448": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34691045484": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34691045598": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34691048375": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34691048401": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34691050517": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34691052484": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34691053287": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34691055667": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34691099118": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34691428735": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34691687302": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34691765536": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34691782893": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34692020328": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34692096139": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34692141635": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34692636287": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34692735373": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34692903247": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34693673951": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34693674364": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34693677576": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34693678507": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34693680024": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34693681417": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34693682702": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34693685466": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34693688822": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34694087857": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34694088102": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34694091316": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34694091694": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34694094003": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34694095534": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34694098954": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34694101343": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34694102379": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34694104316": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34694106982": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34694107871": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34694504636": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34694504753": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34694510445": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34694510787": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34694512837": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34694514205": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34694516827": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34694521564": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34694522378": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34694525647": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34694597701": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34694607705": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34694723170": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34694897465": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34694901333": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34694913898": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34694919120": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34694925478": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34694936478": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34694939307": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34694969316": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34695020272": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34695077472": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34695166407": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34695194744": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34695830302": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34695832065": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34695833103": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34695835721": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34695837085": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34697482389": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34697483258": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34697487222": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34697488367": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34697489547": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34697491336": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34697749336": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34697927342": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34697931163": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34698233938": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34698478467": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34698546752": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34698581121": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34698641508": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34698650113": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34698761511": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34698764852": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34698765038": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34698959081": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
+        "34699231932": {
+          "attempt": 1,
+          "day": "2026-09-12",
+          "mirrored": []
+        },
         "41745532263": {
           "attempt": 1,
           "day": "2026-11-04",
@@ -78344,8 +79972,60 @@
       }
     },
     "typescript-eslint/typescript-eslint": {
-      "days": {},
+      "days": {
+        "2026-08-15": "complete",
+        "2026-08-16": "complete",
+        "2026-08-17": "complete",
+        "2026-08-18": "complete",
+        "2026-08-19": "complete",
+        "2026-08-20": "complete",
+        "2026-08-21": "complete",
+        "2026-08-22": "complete",
+        "2026-08-23": "complete",
+        "2026-08-24": "complete",
+        "2026-08-25": "complete",
+        "2026-08-26": "complete",
+        "2026-08-27": "complete",
+        "2026-08-28": "complete",
+        "2026-08-29": "complete",
+        "2026-08-30": "complete"
+      },
       "runs": {
+        "33357791566": {
+          "attempt": 1,
+          "day": "2026-08-31",
+          "mirrored": []
+        },
+        "33357995224": {
+          "attempt": 1,
+          "day": "2026-08-31",
+          "mirrored": []
+        },
+        "33358807228": {
+          "attempt": 1,
+          "day": "2026-08-31",
+          "mirrored": []
+        },
+        "33358979556": {
+          "attempt": 1,
+          "day": "2026-08-31",
+          "mirrored": []
+        },
+        "33359400904": {
+          "attempt": 1,
+          "day": "2026-08-31",
+          "mirrored": []
+        },
+        "33362639765": {
+          "attempt": 1,
+          "day": "2026-08-31",
+          "mirrored": []
+        },
+        "33386246018": {
+          "attempt": 1,
+          "day": "2026-08-31",
+          "mirrored": []
+        },
         "41744331355": {
           "attempt": 1,
           "day": "2026-11-04",
@@ -78559,62 +80239,149 @@
       }
     },
     "unjs/h3": {
-      "days": {},
+      "days": {
+        "2026-08-15": "complete",
+        "2026-08-16": "complete",
+        "2026-08-17": "complete",
+        "2026-08-18": "complete",
+        "2026-08-19": "complete",
+        "2026-08-20": "complete",
+        "2026-08-21": "complete",
+        "2026-08-22": "complete",
+        "2026-08-23": "complete",
+        "2026-08-24": "complete",
+        "2026-08-25": "complete",
+        "2026-08-26": "complete",
+        "2026-08-27": "complete",
+        "2026-08-28": "complete",
+        "2026-08-29": "complete",
+        "2026-08-30": "complete",
+        "2026-08-31": "complete",
+        "2026-09-01": "complete",
+        "2026-09-02": "complete",
+        "2026-09-03": "complete",
+        "2026-09-04": "complete",
+        "2026-09-05": "complete",
+        "2026-09-06": "complete",
+        "2026-09-07": "complete",
+        "2026-09-08": "complete",
+        "2026-09-09": "complete",
+        "2026-09-10": "complete",
+        "2026-09-11": "complete",
+        "2026-09-12": "complete",
+        "2026-09-13": "complete",
+        "2026-09-14": "complete",
+        "2026-09-15": "complete",
+        "2026-09-16": "complete",
+        "2026-09-17": "complete",
+        "2026-09-18": "complete",
+        "2026-09-19": "complete",
+        "2026-09-20": "complete",
+        "2026-09-21": "complete",
+        "2026-09-22": "complete",
+        "2026-09-23": "complete",
+        "2026-09-24": "complete",
+        "2026-09-25": "complete",
+        "2026-09-26": "complete",
+        "2026-09-27": "complete",
+        "2026-09-28": "complete",
+        "2026-09-29": "complete",
+        "2026-09-30": "complete",
+        "2026-10-01": "complete",
+        "2026-10-02": "complete",
+        "2026-10-03": "complete",
+        "2026-10-04": "complete",
+        "2026-10-05": "complete",
+        "2026-10-06": "complete",
+        "2026-10-07": "complete",
+        "2026-10-08": "complete",
+        "2026-10-09": "complete",
+        "2026-10-10": "complete",
+        "2026-10-11": "complete",
+        "2026-10-12": "complete",
+        "2026-10-13": "complete",
+        "2026-10-14": "complete",
+        "2026-10-15": "complete",
+        "2026-10-16": "complete",
+        "2026-10-17": "complete",
+        "2026-10-18": "complete",
+        "2026-10-19": "complete",
+        "2026-10-20": "complete",
+        "2026-10-21": "complete",
+        "2026-10-22": "complete",
+        "2026-10-23": "complete",
+        "2026-10-24": "complete",
+        "2026-10-25": "complete",
+        "2026-10-26": "complete",
+        "2026-10-27": "complete",
+        "2026-10-28": "complete",
+        "2026-10-29": "complete",
+        "2026-10-30": "complete",
+        "2026-10-31": "complete",
+        "2026-11-01": "complete",
+        "2026-11-02": "complete",
+        "2026-11-03": "complete",
+        "2026-11-04": "complete",
+        "2026-11-05": "complete",
+        "2026-11-06": "complete",
+        "2026-11-07": "complete",
+        "2026-11-08": "complete",
+        "2026-11-09": "complete"
+      },
       "runs": {
-        "42209260662": {
-          "attempt": 1,
-          "day": "2026-11-06",
+        "42746537579": {
+          "attempt": 2,
+          "day": "2026-11-10",
           "mirrored": []
         },
-        "42209261810": {
+        "42780311752": {
           "attempt": 1,
-          "day": "2026-11-06",
+          "day": "2026-11-10",
           "mirrored": []
         },
-        "42210283949": {
+        "42822544700": {
           "attempt": 1,
-          "day": "2026-11-06",
+          "day": "2026-11-10",
           "mirrored": []
         },
-        "42237396947": {
+        "42824279890": {
           "attempt": 1,
-          "day": "2026-11-06",
+          "day": "2026-11-10",
           "mirrored": []
         },
-        "42348113698": {
+        "42828821538": {
           "attempt": 1,
-          "day": "2026-11-07",
-          "mirrored": []
-        },
-        "42375048582": {
-          "attempt": 1,
-          "day": "2026-11-07",
-          "mirrored": []
-        },
-        "42375287222": {
-          "attempt": 1,
-          "day": "2026-11-07",
-          "mirrored": []
-        },
-        "42375854118": {
-          "attempt": 1,
-          "day": "2026-11-07",
-          "mirrored": []
-        },
-        "42421804624": {
-          "attempt": 1,
-          "day": "2026-11-07",
-          "mirrored": []
-        },
-        "42421966822": {
-          "attempt": 1,
-          "day": "2026-11-07",
+          "day": "2026-11-10",
           "mirrored": []
         }
       }
     },
     "visgl/luma.gl": {
-      "days": {},
+      "days": {
+        "2026-08-15": "complete",
+        "2026-08-16": "complete",
+        "2026-08-17": "complete",
+        "2026-08-18": "complete",
+        "2026-08-19": "complete",
+        "2026-08-20": "complete",
+        "2026-08-21": "complete",
+        "2026-08-22": "complete",
+        "2026-08-23": "complete",
+        "2026-08-24": "complete",
+        "2026-08-25": "complete",
+        "2026-08-26": "complete",
+        "2026-08-27": "complete",
+        "2026-08-28": "complete",
+        "2026-08-29": "complete",
+        "2026-08-30": "complete",
+        "2026-08-31": "complete",
+        "2026-09-01": "complete",
+        "2026-09-02": "complete",
+        "2026-09-03": "complete",
+        "2026-09-04": "complete",
+        "2026-09-05": "complete",
+        "2026-09-06": "complete"
+      },
       "runs": {
         "41744688665": {
           "attempt": 1,
@@ -79489,7 +81256,23 @@
       }
     },
     "vitejs/vite": {
-      "days": {},
+      "days": {
+        "2026-08-15": "complete",
+        "2026-08-16": "complete",
+        "2026-08-17": "complete",
+        "2026-08-18": "complete",
+        "2026-08-19": "complete",
+        "2026-08-20": "complete",
+        "2026-08-21": "complete",
+        "2026-08-22": "complete",
+        "2026-08-23": "complete",
+        "2026-08-24": "complete",
+        "2026-08-25": "complete",
+        "2026-08-26": "complete",
+        "2026-08-27": "complete",
+        "2026-08-28": "complete",
+        "2026-08-29": "complete"
+      },
       "runs": {
         "41774164067": {
           "attempt": 1,
@@ -80234,8 +82017,32 @@
       }
     },
     "vuejs/core": {
-      "days": {},
+      "days": {
+        "2026-08-15": "complete",
+        "2026-08-16": "complete",
+        "2026-08-17": "complete",
+        "2026-08-18": "complete",
+        "2026-08-19": "complete",
+        "2026-08-20": "complete",
+        "2026-08-21": "complete",
+        "2026-08-22": "complete",
+        "2026-08-23": "complete",
+        "2026-08-24": "complete",
+        "2026-08-25": "complete",
+        "2026-08-26": "complete",
+        "2026-08-27": "complete",
+        "2026-08-28": "complete",
+        "2026-08-29": "complete",
+        "2026-08-30": "complete",
+        "2026-08-31": "complete",
+        "2026-09-01": "complete"
+      },
       "runs": {
+        "33574268765": {
+          "attempt": 1,
+          "day": "2026-09-02",
+          "mirrored": []
+        },
         "41746020614": {
           "attempt": 1,
           "day": "2026-11-04",
@@ -81574,196 +83381,154 @@
       }
     },
     "vueuse/vueuse": {
-      "days": {},
+      "days": {
+        "2026-08-15": "complete",
+        "2026-08-16": "complete",
+        "2026-08-17": "complete",
+        "2026-08-18": "complete",
+        "2026-08-19": "complete",
+        "2026-08-20": "complete",
+        "2026-08-21": "complete",
+        "2026-08-22": "complete",
+        "2026-08-23": "complete",
+        "2026-08-24": "complete",
+        "2026-08-25": "complete",
+        "2026-08-26": "complete",
+        "2026-08-27": "complete",
+        "2026-08-28": "complete",
+        "2026-08-29": "complete",
+        "2026-08-30": "complete",
+        "2026-08-31": "complete",
+        "2026-09-01": "complete",
+        "2026-09-02": "complete",
+        "2026-09-03": "complete",
+        "2026-09-04": "complete",
+        "2026-09-05": "complete",
+        "2026-09-06": "complete",
+        "2026-09-07": "complete",
+        "2026-09-08": "complete",
+        "2026-09-09": "complete",
+        "2026-09-10": "complete",
+        "2026-09-11": "complete",
+        "2026-09-12": "complete",
+        "2026-09-13": "complete",
+        "2026-09-14": "complete",
+        "2026-09-15": "complete",
+        "2026-09-16": "complete",
+        "2026-09-17": "complete",
+        "2026-09-18": "complete",
+        "2026-09-19": "complete",
+        "2026-09-20": "complete",
+        "2026-09-21": "complete",
+        "2026-09-22": "complete",
+        "2026-09-23": "complete",
+        "2026-09-24": "complete",
+        "2026-09-25": "complete",
+        "2026-09-26": "complete",
+        "2026-09-27": "complete",
+        "2026-09-28": "complete",
+        "2026-09-29": "complete",
+        "2026-09-30": "complete",
+        "2026-10-01": "complete",
+        "2026-10-02": "complete",
+        "2026-10-03": "complete",
+        "2026-10-04": "complete",
+        "2026-10-05": "complete",
+        "2026-10-06": "complete",
+        "2026-10-07": "complete",
+        "2026-10-08": "complete",
+        "2026-10-09": "complete",
+        "2026-10-10": "complete",
+        "2026-10-11": "complete",
+        "2026-10-12": "complete",
+        "2026-10-13": "complete",
+        "2026-10-14": "complete",
+        "2026-10-15": "complete",
+        "2026-10-16": "complete",
+        "2026-10-17": "complete",
+        "2026-10-18": "complete",
+        "2026-10-19": "complete",
+        "2026-10-20": "complete",
+        "2026-10-21": "complete",
+        "2026-10-22": "complete",
+        "2026-10-23": "complete",
+        "2026-10-24": "complete",
+        "2026-10-25": "complete",
+        "2026-10-26": "complete",
+        "2026-10-27": "complete",
+        "2026-10-28": "complete",
+        "2026-10-29": "complete",
+        "2026-10-30": "complete",
+        "2026-10-31": "complete",
+        "2026-11-01": "complete",
+        "2026-11-02": "complete",
+        "2026-11-03": "complete",
+        "2026-11-04": "complete",
+        "2026-11-05": "complete",
+        "2026-11-06": "complete",
+        "2026-11-07": "complete",
+        "2026-11-08": "complete",
+        "2026-11-09": "complete"
+      },
       "runs": {
-        "41879214340": {
+        "42740437693": {
           "attempt": 1,
-          "day": "2026-11-04",
+          "day": "2026-11-10",
           "mirrored": []
         },
-        "41979062097": {
+        "42745384754": {
           "attempt": 1,
-          "day": "2026-11-05",
+          "day": "2026-11-10",
           "mirrored": []
         },
-        "41982881152": {
+        "42755934960": {
           "attempt": 1,
-          "day": "2026-11-05",
+          "day": "2026-11-10",
           "mirrored": []
         },
-        "41985940319": {
-          "attempt": 1,
-          "day": "2026-11-05",
-          "mirrored": []
-        },
-        "41987258599": {
-          "attempt": 1,
-          "day": "2026-11-05",
-          "mirrored": []
-        },
-        "41988824881": {
-          "attempt": 1,
-          "day": "2026-11-05",
-          "mirrored": []
-        },
-        "41988905093": {
-          "attempt": 1,
-          "day": "2026-11-05",
-          "mirrored": []
-        },
-        "41989075468": {
-          "attempt": 1,
-          "day": "2026-11-05",
-          "mirrored": []
-        },
-        "41989097395": {
-          "attempt": 1,
-          "day": "2026-11-05",
-          "mirrored": []
-        },
-        "41989101364": {
-          "attempt": 1,
-          "day": "2026-11-05",
-          "mirrored": []
-        },
-        "41989157847": {
-          "attempt": 1,
-          "day": "2026-11-05",
-          "mirrored": []
-        },
-        "41989172723": {
-          "attempt": 1,
-          "day": "2026-11-05",
-          "mirrored": []
-        },
-        "41990969558": {
-          "attempt": 1,
-          "day": "2026-11-05",
-          "mirrored": []
-        },
-        "42035687939": {
-          "attempt": 1,
-          "day": "2026-11-05",
-          "mirrored": []
-        },
-        "42198286409": {
-          "attempt": 1,
-          "day": "2026-11-06",
-          "mirrored": []
-        },
-        "42198805633": {
-          "attempt": 1,
-          "day": "2026-11-06",
-          "mirrored": []
-        },
-        "42208197459": {
+        "42776614450": {
           "attempt": 2,
-          "day": "2026-11-06",
+          "day": "2026-11-10",
           "mirrored": []
         },
-        "42229062271": {
+        "42784479896": {
           "attempt": 1,
-          "day": "2026-11-06",
+          "day": "2026-11-10",
           "mirrored": []
         },
-        "42229367286": {
+        "42784971810": {
           "attempt": 1,
-          "day": "2026-11-06",
+          "day": "2026-11-10",
           "mirrored": []
         },
-        "42231904925": {
+        "42788199882": {
           "attempt": 1,
-          "day": "2026-11-06",
+          "day": "2026-11-10",
           "mirrored": []
         },
-        "42351815278": {
+        "42788692114": {
           "attempt": 1,
-          "day": "2026-11-07",
+          "day": "2026-11-10",
           "mirrored": []
         },
-        "42457050512": {
-          "attempt": 1,
-          "day": "2026-11-08",
-          "mirrored": []
-        },
-        "42493180801": {
-          "attempt": 1,
-          "day": "2026-11-08",
-          "mirrored": []
-        },
-        "42601618935": {
+        "42788928297": {
           "attempt": 2,
-          "day": "2026-11-09",
+          "day": "2026-11-10",
           "mirrored": []
         },
-        "42602330046": {
+        "42810738074": {
           "attempt": 1,
-          "day": "2026-11-09",
+          "day": "2026-11-10",
           "mirrored": []
         },
-        "42603656160": {
+        "42811423116": {
           "attempt": 1,
-          "day": "2026-11-09",
+          "day": "2026-11-10",
           "mirrored": []
         },
-        "42605837326": {
+        "42816583571": {
           "attempt": 1,
-          "day": "2026-11-09",
-          "mirrored": []
-        },
-        "42610380216": {
-          "attempt": 1,
-          "day": "2026-11-09",
-          "mirrored": []
-        },
-        "42610744264": {
-          "attempt": 1,
-          "day": "2026-11-09",
-          "mirrored": []
-        },
-        "42673224626": {
-          "attempt": 1,
-          "day": "2026-11-09",
-          "mirrored": []
-        },
-        "42678039202": {
-          "attempt": 2,
-          "day": "2026-11-09",
-          "mirrored": []
-        },
-        "42679317195": {
-          "attempt": 1,
-          "day": "2026-11-09",
-          "mirrored": []
-        },
-        "42682505591": {
-          "attempt": 1,
-          "day": "2026-11-09",
-          "mirrored": []
-        },
-        "42682947567": {
-          "attempt": 1,
-          "day": "2026-11-09",
-          "mirrored": []
-        },
-        "42683625774": {
-          "attempt": 1,
-          "day": "2026-11-09",
-          "mirrored": []
-        },
-        "42686815377": {
-          "attempt": 1,
-          "day": "2026-11-09",
-          "mirrored": []
-        },
-        "42687590769": {
-          "attempt": 1,
-          "day": "2026-11-09",
-          "mirrored": []
-        },
-        "42687633361": {
-          "attempt": 2,
-          "day": "2026-11-09",
+          "day": "2026-11-10",
           "mirrored": []
         }
       }
