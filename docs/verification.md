@@ -17,4 +17,4 @@ path: the publish picks it up in its first fetch and succeeds on the first attem
 inside the few seconds between that fetch and the push is what exercises the retry, which is
 covered by the tests in `tools/corpus/test/publish.test.ts` instead.
 
-Design and reasoning: DECISIONS 22 in ojassug/sieve.
+Design and reasoning: DECISIONS 22 in trommelci/trommel.
